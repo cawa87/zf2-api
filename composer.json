@@ -1,0 +1,16 @@
+{
+    "name": "cawakharkov/zf2-api",
+    "description": "Simple RESTful API with ZF2",
+    "keywords": [
+        "framework",
+        "zf2",
+        "api",
+        "rest"
+    ],
+    "require": {
+        "php": ">=5.4",
+        "zendframework/zendframework": "2.*@dev",
+        "doctrine/doctrine-orm-module" :"0.*"
+    }
+
+}
